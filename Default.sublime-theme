@@ -3,8 +3,8 @@
         "class": "sidebar_label",
         //"color": [192,197,203],
         // "color": [193,199,249],
-        "font.bold": true,
-        "font.size": 18,
+        // "font.bold": true,
+        "font.size": 17,
         "shadow_offset": [0, 0]
     },
      {
@@ -15,7 +15,7 @@
 
     { "class": "tab_label",
     "font.size": 14,
-    "font.bold": true,
+    // "font.bold": true,
      //"font.face": "Ubuntu"
     },
     {
