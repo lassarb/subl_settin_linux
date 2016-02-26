@@ -1,0 +1,19 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AngularJS",
+		"ApacheConf.tmLanguage",
+		"AutoFileName",
+		"Django",
+		"Emmet",
+		"Jade",
+		"LESS",
+		"Package Control",
+		"Sass",
+		"SideBarEnhancements"
+	]
+}

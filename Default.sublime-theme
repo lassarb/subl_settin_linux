@@ -1,0 +1,27 @@
+[
+    {
+        "class": "sidebar_label",
+        //"color": [192,197,203],
+        // "color": [193,199,249],
+        "font.bold": true,
+        "font.size": 18,
+        "shadow_offset": [0, 0]
+    },
+     {
+        "class": "sidebar_label",
+        "parents": [{"class": "tree_row","attributes": ["hover"]}],
+        // "color": [255,255,255]
+    },
+
+    { "class": "tab_label",
+    "font.size": 14,
+    "font.bold": true,
+     //"font.face": "Ubuntu"
+    },
+    {
+    "class": "tabset_control",
+    "tab_height": 40,
+    // "tab_width": 30,
+    // "tab_min_width":25
+}
+]
